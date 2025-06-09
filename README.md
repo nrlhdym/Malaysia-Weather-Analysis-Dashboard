@@ -17,7 +17,7 @@ This Power BI dashboard visualizes hourly Malaysian weather data with a strong f
 | File Name                    | Description |
 |-----------------------------|-------------|
 | `Malaysia_Weather_Analysis.pbix` | Power BI dashboard file |
-| `weather_with_qc_flag.csv`       | Dataset after QC flagging and NaN masking |
+| `weather_clean.csv`       | Dataset after QC flagging and NaN masking |
 | `clean.py`       | Python script to apply MLM-style data quality control |
 | `README.md`                       | Project summary and documentation |
 | `dashboard_screenshot.png`       | Dashboard preview |
